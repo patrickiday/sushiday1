@@ -1,4 +1,5 @@
-style.css
-.blackheader{background-color: #000; float: right;}
-
-.maincontent {background-color: }
+body {width: 1000px;}
+header {border-bottom: 3px solid #852338; }
+#blackheader{background-color: #000; float: right;}
+#tfheader{padding-top: 20px;}
+#maincontent {background-color: #000;}
